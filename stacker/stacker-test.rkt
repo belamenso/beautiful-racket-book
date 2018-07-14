@@ -1,7 +1,8 @@
 #lang reader "stacker.rkt"
 
 4
-8
+(expt 2 3)
 +
 3
 *
+
